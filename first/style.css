@@ -1,0 +1,46 @@
+body {
+	margin: 0;
+}
+
+.header {
+	height: 10%;
+	width: 100%;
+	background: gray;
+}
+
+.leftBar {
+	height: 90%;
+	width: 10%;
+	background: #ccc;
+	float: left;
+}
+
+.rightBar {
+	height: 90%;
+	width: 10%;
+	background: #ccc;
+	position: absolute;
+	top: 10%;
+	right: 0;
+}
+
+.push {
+	height: 90%;
+	width: 100%;
+}
+
+.container {
+	height: 90%;
+	width: 100%;	
+}
+	
+
+.footer {
+	height: 10%;
+	width: 100%;
+	background: black;
+	
+}
+
+
+
