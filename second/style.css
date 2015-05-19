@@ -1,0 +1,38 @@
+body {
+	margin: 0;
+}
+
+.leftside {
+	height: 100%;
+	width: 33.3%;
+	background: blue;
+	display: inline-block;
+	float: left;
+}
+
+.center {
+	height: 100%;
+	width: 33.4%;
+	background: green;
+  position: relative;
+  float: left;
+}
+
+.rightside {
+	height: 80%;
+	width: 33.3%;
+	background: red;
+	float: right;
+}
+
+.bottom {
+	max-height: 20%;
+	max-width: 33.3%;
+	background: red;
+	float: right;
+	object-fit: fill;
+}
+
+
+
+
